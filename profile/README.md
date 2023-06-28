@@ -8,4 +8,6 @@ We're a fairly unique research lab. We work in a different way to most other org
 
 We think there are numerous near term gains in various high impact applications if the above is achieved. Accordingly, we think of our work as falling into 3 categories: Algorithms and Theory, System and Infrastructure, and Applications.
 
+Join our discord at https://discord.gg/a8uDbxzEbM
+
 *If you're interested building the next generation of intelligent systems, reach out! We work hard, fast, with both ambition and excellence, and could use your help!*
