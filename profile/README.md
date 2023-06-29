@@ -4,6 +4,7 @@
 
 [![Check out our Discord Here](https://dcbadge.vercel.app/api/server/a8uDbxzEbM)](https://discord.gg/a8uDbxzEbM)
 
+## About Us
 Manifold is a distributed research group working on significantly improving AI systems and applying them to the toughest problems humanity faces. We do this by advancing theory and also building exceptional open source tools.
 
 We're a fairly unique research lab. We work in a different way to most other organizations, and take a capabilities focused view of AI. We believe learning systems should have:
