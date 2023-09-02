@@ -5,7 +5,7 @@
 - [![Check out our Discord Here](https://dcbadge.vercel.app/api/server/a8uDbxzEbM)](https://discord.gg/a8uDbxzEbM)
 - [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/ManifoldRG.svg?style=social&label=Follow%20%40ManifoldRG)](https://twitter.com/ManifoldRG)
 
-## About Us
+## About Manifold
 Manifold is a distributed research group working on significantly improving AI systems and applying them to the toughest problems humanity faces. We do this by advancing theory and also building exceptional open source tools. We work in a different way to most other organizations, combining the strengths of focused research labs and large open source organizations. We also take a capabilities focused view of AI, and believe intelligent systems should have:
 - **Multimodality**: Learning systems should be able to handle multiple objectives across multiple modalities.
 - **Continual Learning**: They should be able to update and adapt to changing data over time.
