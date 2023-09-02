@@ -15,3 +15,10 @@ We're a fairly unique research lab. We work in a different way to most other org
 We think there are numerous near term gains in various high impact applications if the above is achieved. Accordingly, we think of our work as falling into 3 categories: Algorithms and Theory, System and Infrastructure, and Applications.
 
 *If you're interested building the next generation of intelligent systems, reach out! We work hard, fast, with both ambition and excellence, and could use your help!*
+
+## Relevant Links
+
+ - [Twitter](https://twitter.com/ManifoldRG)
+ - [LinkedIn](https://www.linkedin.com/company/manifold-research-group)
+ - [Discord](https://discord.gg/a8uDbxzEbM)
+ - [Core Team Expectations](https://docs.google.com/document/d/12_NKKnfMy6Q09xsyGwF4UBfSvn9vqVk4Pd_OTJVFWYk/edit?usp=sharing)
