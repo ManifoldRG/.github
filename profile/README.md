@@ -6,9 +6,7 @@
 - [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/ManifoldRG.svg?style=social&label=Follow%20%40ManifoldRG)](https://twitter.com/ManifoldRG)
 
 ## About Us
-Manifold is a distributed research group working on significantly improving AI systems and applying them to the toughest problems humanity faces. We do this by advancing theory and also building exceptional open source tools.
-
-We're a fairly unique research lab. We work in a different way to most other organizations, and take a capabilities focused view of AI. We believe learning systems should have:
+Manifold is a distributed research group working on significantly improving AI systems and applying them to the toughest problems humanity faces. We do this by advancing theory and also building exceptional open source tools. We work in a different way to most other organizations, combining the strengths of focused research labs and large open source organizations. We also take a capabilities focused view of AI, and believe intelligent systems should have:
 - **Multimodality**: Learning systems should be able to handle multiple objectives across multiple modalities.
 - **Continual Learning**: They should be able to update and adapt to changing data over time.
 - **Modularity and Composability**: Composability & Modularity leads to ease of reuse, fast adaptation, and human interpretability. 
