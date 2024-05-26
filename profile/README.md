@@ -19,7 +19,7 @@ We think if the above is achieved, there are numerous near term gains in various
 The best way to get plugged in and contribute to the research and development happening at Manifold is to:
 1. Check out the above project links, which include roadmaps, contribution guides, issues and project status, and more. 
 2. Join the conversation over on the [Manifold Discord](https://discord.gg/a8uDbxzEbM), where we do all our coordinated work.
-3. If you want to be actively involved (~10 hrs/ week), consider joining the core team! Check out what it means to be a core team member and the associated expectations [here](https://docs.google.com/document/d/e/2PACX-1vQgq32ChlP_e26mRPgfC31lZJCcAHAgbJ_Tn1nfzq8pfysoPAUqAWnel87Qc26h2Q/pub). 
+3. If you want to be actively involved (~10 hrs/ week), consider joining the OS Research Team! Check out what it means to be a OS Research Team member and the associated expectations [here](https://docs.google.com/document/d/e/2PACX-1vQgq32ChlP_e26mRPgfC31lZJCcAHAgbJ_Tn1nfzq8pfysoPAUqAWnel87Qc26h2Q/pub). 
    
 ## Keep up with our work!
  - [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/ManifoldRG.svg?style=social&label=Follow%20%40ManifoldRG)](https://twitter.com/ManifoldRG)
