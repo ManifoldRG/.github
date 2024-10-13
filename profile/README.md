@@ -11,10 +11,6 @@ Manifold is a distributed research group working on significantly improving AI s
 
 We think if the above is achieved, there are numerous near term gains in various high impact applications.
 
-## Current Projects
-- [NEKO 🐈](https://github.com/ManifoldRG/NEKO), an open source effort to build a massive generalist model capable of performing dozens of tasks across image, text, and control modalities.
-- [AgentForge ⚒️](https://github.com/ManifoldRG/AgentForge) aims to build generic tools and models to rapidly build Intelligent Agents capable of digital tool use.
-
 ## Contributing
 The best way to get plugged in and contribute to the research and development happening at Manifold is to:
 1. Check out the above project links, which include roadmaps, contribution guides, issues and project status, and more. 
