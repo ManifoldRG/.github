@@ -7,7 +7,7 @@
 Manifold is a new kind of research organization conducting large-scale, moonshot foundational and applied science and technology research. We select research directions based on their potential for real world impact, not solely academic output. Notably, we work in a hyper concentrated and network driven way.
 
 ## Our Research Directions
-Check out our website for more information on our current research!
+Check out our website for more information on our current research:
 https://www.manifoldrg.com/research/
 
 ## Some of our Research Products, Outputs and Demos
